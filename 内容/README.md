@@ -27,3 +27,20 @@
   - [ ] 最小化网络切片资源分配的启发式算法的设计与实现
   - [ ] 仿真环境的设计与搭建
   - [ ] 基于评价指标的算法仿真结果和性能分析
+
+---
+
+### FlexE技术白皮书
+
+* problem
+  * client/group架构
+* background
+  * 大家都用光纤了，底层接口/模块/速率固定，调整成本高，所以FlexE来灵活配置带宽。
+* advantage
+  * 接口速率可变（不再受制于阶梯型速率体系
+  * 接口带宽可以按需灵活满足，不受制于光传输网络能力
+* how make it？
+  * ![image-20211026221640465](C:\Users\28274\AppData\Roaming\Typora\typora-user-images\image-20211026221640465.png)
+  * ![image-20211026221721093](C:\Users\28274\AppData\Roaming\Typora\typora-user-images\image-20211026221721093.png)
+  * 
+
