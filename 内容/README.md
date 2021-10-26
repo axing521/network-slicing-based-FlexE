@@ -40,7 +40,7 @@
   * 接口速率可变（不再受制于阶梯型速率体系
   * 接口带宽可以按需灵活满足，不受制于光传输网络能力
 * how make it？
-  * ![image-20211026221640465](C:\Users\28274\AppData\Roaming\Typora\typora-user-images\image-20211026221640465.png)
-  * ![image-20211026221721093](C:\Users\28274\AppData\Roaming\Typora\typora-user-images\image-20211026221721093.png)
+  * ![image-20211026221640465](https://mmbiz.qpic.cn/mmbiz_png/rxKvItX9KKwXDVRARjGI44uwiaFygGNkMxhwMCjs103m79h4p4ibCnpfwwMKwahSKYQh0SZS6Kiax3ew0ROAicQk0g/0?wx_fmt=png)
+  * ![image-20211026221721093](https://mmbiz.qpic.cn/mmbiz_png/rxKvItX9KKwXDVRARjGI44uwiaFygGNkMLxnLmDn4QjkwfGc2QvibgEDslLib8ibuJTfsI2N25hiaA81RhavRKCNsZQ/0?wx_fmt=png)
   * 
 
