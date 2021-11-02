@@ -617,3 +617,44 @@ SPN还可以根据企业用户的实际需求提供差异化的L2/L3业务。这
 \7. 当前FlexE设备MPU在处理切片间数据、切片层与管理层数据间的隔离性如 
 
 何？
+
+#### FlexE:增加Shim层将业务逻辑层和物理层隔开
+
+#### FlexE基本概念：FlexE Shim / FlexE时隙
+
+* **Shim**：一个功能层，实现FlexE-Client和FlexE-Group之间的映射/解映射。
+
+  ​			时分复用，绑定多个物理通道。
+
+* **FlexE时隙**：shim中有n * 20个时隙（n是成员的数量，每个成员有20个时隙），一个时隙就是5G的速率，（传输数据的基本单位是66比特的数据块）
+
+#### FlexE基本概念：Calendar结构
+
+![039](C:\Users\28274\AppData\Roaming\Typora\typora-user-images\image-20211102221702594.png)
+
+#### FlexE管理通道实现：Shim-to-Shim层|Section层
+
+**Section**层的管理通道信息在相 
+
+邻的段层处终结，只在相邻的物 
+
+理管道之间有效，不会穿透第三 
+
+方网络 
+
+---
+
+**Shim-to-Shim**的管理通道信息*
+
+在相邻的两个shim之间有效。在 
+
+特定场景下，Shim-to-Shim管理 
+
+通道信息会穿透第三方网络
+
+![040](https://mmbiz.qpic.cn/mmbiz_png/rxKvItX9KKz1Z2TmkTDGtyicHQh17RZbQFEcKUBWPicbvaJCpUkd9mQp2wWJWiaN6icaTzP6u6sbEvWK1JICw98oJw/0?wx_fmt=png)
+
+#### FlexE帧结构：开销结构
+
+复帧结构：32 * 8 = 256
+
