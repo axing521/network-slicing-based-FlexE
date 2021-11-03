@@ -654,6 +654,8 @@ SPN还可以根据企业用户的实际需求提供差异化的L2/L3业务。这
 
 ![040](https://mmbiz.qpic.cn/mmbiz_png/rxKvItX9KKz1Z2TmkTDGtyicHQh17RZbQFEcKUBWPicbvaJCpUkd9mQp2wWJWiaN6icaTzP6u6sbEvWK1JICw98oJw/0?wx_fmt=png)
 
+> 2021/11/3🐱‍🏍
+
 #### FlexE帧结构：开销结构
 
 复帧结构：32 * 8 = 256
@@ -667,4 +669,26 @@ SPN还可以根据企业用户的实际需求提供差异化的L2/L3业务。这
 ![042](C:\Users\28274\AppData\Roaming\Typora\typora-user-images\image-20211103212547167.png)
 
 ![043](https://mmbiz.qpic.cn/mmbiz_png/rxKvItX9KKzoVDXVoAZoiaXNZ07dO4OWa9sz9aXeuKfSqgd1cxibpjoL2Pa5FZDBjXnVNGQSYNZDO7ZlMl1FAibyQ/0?wx_fmt=png)
+
+![044](https://mmbiz.qpic.cn/mmbiz_png/rxKvItX9KKzoVDXVoAZoiaXNZ07dO4OWa8cAWosrBz2Lq72pCiajRoT1gVwfiboGytDdPicWrXm6wqsCXFJddtchicw/0?wx_fmt=png)
+
+####Calendar静态配置
+
+Calendar静态配置是指互通的两个MTN接口组对应接收端MTN Client的业务恢复配置选择，完全根据本端控制器下发的配置信息进行MTN Client 提取，而不是根据接收端从MTN接口开销Client Calendar A/B字段中提取的配置信息，Client互通配置的正确性通过控制器保证，Client Calendar提取的配置信息可用于一致性校验。
+
+#### Calendar动态协商
+
+![045](https://mmbiz.qpic.cn/mmbiz_png/rxKvItX9KKzoVDXVoAZoiaXNZ07dO4OWawoKzicBa4dCj5fusCVj7DKqy9uRP7Beh6cbAZq0JppNticgU3ia5L8B4A/0?wx_fmt=png)
+
+#### 组网场景-Unaware
+
+#### 组网场景-Terminating
+
+#### 组网场景-Aware
+
+---
+
+#### SPN设备的端口模式
+
+#### FlexE Channel/G.MTN Channel
 
