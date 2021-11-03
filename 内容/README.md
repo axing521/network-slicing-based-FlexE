@@ -658,3 +658,13 @@ SPN还可以根据企业用户的实际需求提供差异化的L2/L3业务。这
 
 复帧结构：32 * 8 = 256
 
+开销位置：每间隔1023×20个66比特块有一个开销块，连续8个开销块组成一个FlexE帧， 
+
+连续32个FlexE帧组成一个FlexE复帧 
+
+![041](https://mmbiz.qpic.cn/mmbiz_png/rxKvItX9KKzoVDXVoAZoiaXNZ07dO4OWa0nj8vzZK6hkxzGUqXt2SMBZWibehlIsnvfETErFISsiaT8MOibC4IG8UQ/0?wx_fmt=png)
+
+![042](C:\Users\28274\AppData\Roaming\Typora\typora-user-images\image-20211103212547167.png)
+
+![043](https://mmbiz.qpic.cn/mmbiz_png/rxKvItX9KKzoVDXVoAZoiaXNZ07dO4OWa9sz9aXeuKfSqgd1cxibpjoL2Pa5FZDBjXnVNGQSYNZDO7ZlMl1FAibyQ/0?wx_fmt=png)
+
