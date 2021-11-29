@@ -692,3 +692,7 @@ Calendar静态配置是指互通的两个MTN接口组对应接收端MTN Client�
 
 #### FlexE Channel/G.MTN Channel
 
+> 2021/11/17🤢
+
+`MTN`: 外国针对FlexE的描述
+
