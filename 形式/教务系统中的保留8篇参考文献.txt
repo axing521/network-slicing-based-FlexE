@@ -1,0 +1,8 @@
+[1]Muhammad Rehan Raza,Matteo Fiorani,Ahmad Rostami,Peter ？hlen,Lena Wosinska,Paolo Monti. Dynamic Slicing Approach for Multi-Tenant 5G Transport Networks [Invited][J]. Journal of Optical Communications and Networking,2018,10(1).
+[2]R. Vilalta et al., “Network Slicing Using Dynamic Flex Ethernet over Transport Networks,“ 2017 European Conference on Optical Communication (ECOC)[J], 2017, pp. 1-3, doi: 10.1109/ECOC.2017.
+[3]K. Katsalis, L. Gatzikis and K. Samdanis, “Towards Slicing for Transport Networks: The Case of Flex-Ethernet in 5G,“ 2018 IEEE Conference on Standards for Communications and Networking (CSCN)[J], 2018, pp. 1-7, doi: 10.1109/CSCN.2018.
+[4]Samier Barguil et al. “Packet Optical Transport Network Slicing with Hard and Soft Isolation” Applied Sciences 11 [J]，2021: 6219
+[5]P. Alemany et al., “Experimental Validation of Network Slicing Management for Vertical Applications on Multimedia Real-Time Communications over a Packet/Optical Network,“ 2019 21st International Conference on Transparent Optical Networks (ICTON)[J], 2019, pp. 1-4, doi: 10.1109/ICTON.2019.
+[6]G.8310(ITU-T)，G.mtn-arch[S].ITU-T Study Group 15，2020.
+[7]IA OIF-FLEXE-02.0，Flex Ethernet 2.0 Implementation Agreement[S].OIF，2018.
+[8]Technical Vision of Slicing Packet Network(SPN)for 5G Transport[R].Beijing：China Mobile，2018.

@@ -1,0 +1,4 @@
+Network Slicing Using Dynamic Flex Ethernet over Transport Networks
+Towards Slicing for Transport Networks
+Network Slicing-Based Customization of 5G Mobile Services
+Dynamic Slicing Approach for Multi-Tenant 5G Transport Networks
